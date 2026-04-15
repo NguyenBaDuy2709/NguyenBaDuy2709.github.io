@@ -23,7 +23,7 @@ repository               : "NguyenBaDuy2709.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avt.png"
+  avatar           : "avt.jpg"
   name             : "Nguyễn Bá Duy"
   pronouns         : # example: "she/her"  
   bio              : "Sinh vien IoT tai PTIT"

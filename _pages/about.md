@@ -7,18 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Toi la **Nguyễn Bá Duy**, sinh vien nganh **Iot và các hệ thống nhúng**
-tai Hoc vien Cong nghe Buu chinh Vien thong (PTIT).
+Tôi là **Nguyễn Bá Duy**, sinh viên ngành **IoT và các hệ thống nhúng** tại Học viện Công nghệ Bưu chính Viễn thông (PTIT).
 
-## Linh vuc quan tam
-- Mang cam bien khong day (Wireless Sensor Networks)
-- He thong nhung va IoT
-- Xu ly tin hieu y sinh
+## Lĩnh vực quan tâm
+- Mạng cảm biến không dây (Wireless Sensor Networks)
+- Hệ thống nhúng và IoT
+- Xử lý tín hiệu y sinh
 
-## Du an noi bat
+## Dự án nổi bật
 ### Arduino LM35 Temperature Monitor
-He thong giam sat nhiet do su dung cam bien LM35
-ket noi Arduino, hien thi do thi thoi gian thuc tren PC.
+Hệ thống giám sát nhiệt độ sử dụng cảm biến LM35 
+kết nối Arduino, hiển thị đồ thị thời gian thực trên PC.
 
 [Xem tren GitHub](https://github.com/NguyenBaDuy2709/Arduino_LM35_TempMonitor)
 
