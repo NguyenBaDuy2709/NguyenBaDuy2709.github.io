@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Toi la **[Nguyễn Bá Duy]**, sinh vien nganh **[Iot và các hệ thống nhúng]**
+Toi la **Nguyễn Bá Duy**, sinh vien nganh **Iot và các hệ thống nhúng**
 tai Hoc vien Cong nghe Buu chinh Vien thong (PTIT).
 
 ## Linh vuc quan tam
