@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Nguyễn Bá Duy"
 description              : &description "Sinh vien nganh IoT - PTIT"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://NguyenBaDuy2709.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+ # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NguyenBaDuy2709.github.io"
 
@@ -23,7 +23,7 @@ repository               : "NguyenBaDuy2709.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avt.jpg"
+  avatar           : "avt.png"
   name             : "Nguyễn Bá Duy"
   pronouns         : # example: "she/her"  
   bio              : "Sinh vien IoT tai PTIT"
